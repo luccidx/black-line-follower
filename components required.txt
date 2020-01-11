@@ -1,0 +1,10 @@
+Arduino UNO (or Arduino Nano)
+L293D Motor Driver with IC
+Geared Motors (DC MOTORS) x 2 
+Line follower Chassis (body)
+IR Sensor Module x 2
+Black Tape (Electrical Insulation Tape)
+Connecting Wires or jumper wires
+Power supply 
+Battery Connector
+Battery Holder
