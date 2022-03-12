@@ -44,5 +44,8 @@ if(digitalRead(LS) && digitalRead(RS)) // finish line to stop both the motors//
   digitalWrite(LM2, LOW);
   digitalWrite(RM1, HIGH);
   digitalWrite(RM2, LOW);
+
  }
 }
+
+I just taken to work on PR Comments!!!!!
